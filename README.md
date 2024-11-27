@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- CVE-2024-21182 : [Oracle Critical Patch Update Advisory - July 2024](https://www.oracle.com/security-alerts/cpujul2024.html)
+- CVE-2024-21216 : [Oracle Critical Patch Update Advisory - October 2024](https://www.oracle.com/security-alerts/cpuoct2024.html)
+- CVE-2024-42323 : [Apache HertzBeat: RCE by snakeYaml deser load malicious xml](https://lists.apache.org/thread/dwpwm572sbwon1mknlwhkpbom2y7skbx)
+- CVE-2024-45505 : [Apache HertzBeat (incubating): Exists Native Deser RCE and file writing vulnerabilities](https://lists.apache.org/thread/gvbc68krhqhht7mkkkx7k13k6k6fdhy0)
+
+
+![](https://github-readme-stats.vercel.app/api?username=yulate&show_icons=true&theme=transparent)
